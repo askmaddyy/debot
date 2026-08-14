@@ -1,0 +1,13 @@
+{
+  "name": "debot",
+  "owner": {
+    "name": "Madhav Oberoi"
+  },
+  "plugins": [
+    {
+      "name": "debot",
+      "source": "./",
+      "description": "LLMs write like LLMs. debot fixes that. One file, any model."
+    }
+  ]
+}

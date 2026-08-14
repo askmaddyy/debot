@@ -1,0 +1,8 @@
+{
+  "name": "debot",
+  "version": "0.3.0",
+  "description": "LLMs write like LLMs. debot fixes that. One file, any model.",
+  "author": {
+    "name": "Madhav Oberoi"
+  }
+}
